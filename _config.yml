@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jack Hacks"
+title                    : "Hamza Mgh"
 title_separator          : "-"
-name                     : "Jack Halon"
-description              : "Offensive Security Research, Blogs, and Tutorials"
-url                      : "https://jhalon.github.io"
+name                     : "Hamza MAghraoui"
+description              : "My Portfolio"
+url                      : "https://hzmagh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jhalon/jhalon.github.io"
+repository               : "hzmagh/hzmagh.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "jhalon"
+    shortname            : "hzmagh"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jack Halon"
+  name             : "Hamza Mgh"
   avatar           : "bio_chibi.png"
-  bio              : "I like to break into things; both physically and virtually."
-  location         : "United States"
-  email            : "jacek.halon@gmail.com"
+  bio              : "Whiskey Tango Foxtrot."
+  location         : "Morocco"
+  email            : "mgh.hamza@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,22 +89,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jhalon/"
+  github           : "hzmagh/"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "jacek-halon-683912b0"
+  linkedin         : "hamzamaghraoui"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "jack_halon"
+  twitter          : "Hamza_Mgh"
   vine             :
   weibo            :
   xing             :
-  youtube          : "../JackHacks"
+  youtube          : "../hexlogs"
 
 
 # Reading Files
