@@ -99,7 +99,13 @@ I logged in and ran a few commands to generate clear application traffic:
 - `ls`
 - `whoami`
 
+```
 <p align="center"><a href="/assets/images/wireshark004.png"><img src="/assets/images/wireshark004.png"></a></p>
+```
+
+```
+<a href="/images/natas0.png"><img src="/images/natas0.png"></a>
+```
 
 ### What I observed in Wireshark
 After stopping the capture, I filtered on Telnet traffic and inspected packets between:
