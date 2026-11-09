@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hex & Logs"
 title_separator          : "-"
-name                     : "Hamza MAghraoui"
+name                     : "Hamza Maghraoui"
 description              : "My Portfolio"
 url                      : "https://hzmagh.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -60,7 +60,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/tweet.jpg
+og_image                 : /images/tweet.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
