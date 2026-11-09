@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: Posts
 header:
-  overlay_image: blog-cover.jpg
+  overlay_image: banner-010.jpg
 permalink: /posts.html
 ---
 

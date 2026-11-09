@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: Categories
 header:
-  overlay_image: blog-cover.jpg
+  overlay_image: banner-014.jpg
 permalink: /categories.html
 ---
 

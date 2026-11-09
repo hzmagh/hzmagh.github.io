@@ -5,5 +5,5 @@ author_profile: true
 permalink: /side-channel/
 collection: side-channel
 header:
-  overlay_image: blog-cover.jpg
+  overlay_image: banner-009.jpg
 ---
