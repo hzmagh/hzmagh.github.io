@@ -11,21 +11,14 @@ permalink: /about.html
 
 <p align="center"><img src="/images/banner001.jpg" width="500" height="300"></p>
 
-My name is Jack, I'm a current Red Team Consultant and Offensive R&D Engineer.
+My name is Hamza, and I’m an aspiring Cybersecurity Analyst with a strong interest in Blue Team operations, SOC, and Threat Detection.
 
-My main focus lies in the areas of Red Team Adversarial Emulations, Windows Internals and Offensive R&D, but I also have experience in Reverse Engineering, Physical Security, Web Application Security, AWS Security, Hardware/Electronics and some Secure Code Review.
+My main focus lies in Network Security, SIEM solutions, Security Monitoring, Incident Response, and Windows Infrastructure. I also enjoy hands-on lab projects, exploring cybersecurity tools, and learning through practical challenges.
 
-This page will contain posts on my learning experiences, challenges, projects, or just research in my spare time. I hope you enjoy the posts and hopefully learn something new. If you would like to see posts on a certain topic, just reach out to me and I'll see what I can do. Also, feedback is much appreciated!
+This page will be a place to share my learning experiences, projects, and research. I hope you find something useful along the way!
+
+Feedback and knowledge sharing are always welcome.
 
 Cheers!
 
-Jack 
-
-## jack@localhost:~$ cat conference-talks.txt
-
-<p align="center"><img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/conference_speaker_6nt7.svg" width="500" height="300"></p>
-
-The following is a list of Conferences that I have presented at along with slides and video links (if available).
-
-* NCC CON (2019) - Red Teaming AWS: From Compromise to Persistence
-* NCC CON (2020) - Advanced Red Team Tradecraft & Tooling
+Hamza
