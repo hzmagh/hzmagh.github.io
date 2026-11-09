@@ -7,9 +7,9 @@ header:
 permalink: /about.html
 ---
 
-## jack@localhost:~$ whoami
+## Hamza@Root:~$ whoami
 
-<p align="center"><img src="/images/undraw_hacker_mind_6y85.png" width="500" height="300"></p>
+<p align="center"><img src="/images/banner001.jpg" width="500" height="300"></p>
 
 My name is Jack, I'm a current Red Team Consultant and Offensive R&D Engineer.
 
