@@ -6,7 +6,7 @@ header:
   caption: "[__VulnHub__](https://www.vulnhub.com/entry/kioptrix-2014-5,62/)"
 ---
 
-Welcome back to the Final Chapter of the Kioptrix VM Series!
+Welcome back to the Final Chapter of the Kioptrix VM Series! 
 
 These write-ups were created in aiding those starting the PWK Course, or who are training for the OSCP Certificate. The Kioptrix VM's were created to closely resemble those in the PWK Course. To read more about this, or if you haven't already read my first post for Kioptrix 1 - then I suggest you do so. That post can be found [here](https://jhalon.github.io/vulnhub-kioptrix1/).
 
