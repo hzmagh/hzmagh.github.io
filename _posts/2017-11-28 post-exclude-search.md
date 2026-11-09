@@ -6,7 +6,7 @@ categories:
 last_modified_at: 2018-02-19T08:06:00-05:00
 
 header:
-  overlay_image: /assets/images/header-002.jpg
+  overlay_image: header-002.jpg
   overlay_filter: 0.4          # darken a bit; 0–1, higher = darker
   
 ---

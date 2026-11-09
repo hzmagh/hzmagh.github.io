@@ -1,9 +1,8 @@
 ---
 layout: single
 header:
-  overlay_image: /images/banner-012.jpg
-  overlay_filter: 0.6
-toc: true
+  overlay_image: banner-012.jpg
+  overlay_image: : true
 toc_depth: 6
 toc_label: Table of Contents
 last_modified_at: YYYY-MM-DDTHH:MM:SS+01:00

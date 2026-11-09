@@ -2,7 +2,7 @@
 layout: single
 title: "OpenLDAP and Nextcloud Integration on CentOS Stream 9"
 header:
-  overlay_image: /images/banner-014.jpg
+  overlay_image: banner-014.jpg
   overlay_filter: 0.6
 toc: true
 toc_depth: 6

@@ -1,7 +1,7 @@
 ---
 layout: single
 header:
-  overlay_image: /images/banner-011.jpg
+  overlay_image: banner-011.jpg
   overlay_filter: 0.6
 # classes: wide
 
